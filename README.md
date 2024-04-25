@@ -1,5 +1,7 @@
-### Привет 👋 меня зовут Алексей!
-<h3>Я начинающий Frontend-разработчик</h3>
+<div id="heder" align="center">
+  <h1>Привет 👋 меня зовут Алексей!</h1>
+  <h3>Я начинающий Frontend-разработчик</h3>
+</div>
 
 <!--
 **Burjuy85/Burjuy85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
