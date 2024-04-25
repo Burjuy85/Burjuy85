@@ -2,6 +2,7 @@
   <h1>Привет 👋 меня зовут Алексей!</h1>
   <h3>Я начинающий Frontend-разработчик</h3>
 </div>
+<img src="https://camo.githubusercontent.com/7274168fa64de6799ee3862087425217597e590ac473a483753a53257bb59d9b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d596f7574756265266c6f676f3d796f7574756265266c6162656c3d26636f6c6f723d464630303030266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765" height="25" alt="youtube logo" data-canonical-src="https://img.shields.io/static/v1?message=Youtube&amp;logo=youtube&amp;label=&amp;color=FF0000&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" style="max-width: 100%;">
 
 <!--
 **Burjuy85/Burjuy85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
